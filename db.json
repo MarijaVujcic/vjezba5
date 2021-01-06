@@ -1,0 +1,15 @@
+{
+  "cokolada": [
+    {"name":"darkcokolada", "id":1},{"name":"browncokolada", "id":2}],
+   "darkcokolada" : [
+           { "id": 1, "name": "Post 1" },
+           { "id": 2, "name": "Post 2" },
+           { "id": 3, "name": "Post 3" }
+    ],
+   "browncokolada" :  [
+           { "id": 1, "name": "Post 22" },
+           { "id": 2, "name": "Post 33" },
+           { "id": 3, "name": "Post 56" }
+    
+]
+}
