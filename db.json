@@ -2,14 +2,14 @@
   "cokolada": [
     {"name":"darkcokolada", "id":1},{"name":"browncokolada", "id":2}],
    "darkcokolada" : [
-           { "id": 1, "name": "Post 1" },
-           { "id": 2, "name": "Post 2" },
-           { "id": 3, "name": "Post 3" }
+           { "id": 1, "name": "crna cokolada tipa 1", "details" : "cokolada 99 posto kakaa na bio bazi bez umjetnih sladiva" },
+           { "id": 2, "name": "crna cokolada tipa 2", "details" : "cokolada 50 posto kakaa na bio bazi obogaćena bademovim mlijekom" },
+           { "id": 3, "name": "crna cokolada tipa 3" , "details" : "cokolada 21 posto kakaa sa kravljim mlijkom sa 2 posto umjetnih sladiva"}
     ],
    "browncokolada" :  [
-           { "id": 1, "name": "Post 22" },
-           { "id": 2, "name": "Post 33" },
-           { "id": 3, "name": "Post 56" }
+           { "id": 1, "name": "smeđa cokolada", "details" : "smeda cokolada obicna" },
+           { "id": 2, "name": "smeđa cokolada - keks", "details" : "smeda cokolada sa keksom" },
+           { "id": 3, "name": "smeda cokolada - ljesnjaci", "details" : "smeda cokolada sa lješnjacima" }
     
 ]
 }
